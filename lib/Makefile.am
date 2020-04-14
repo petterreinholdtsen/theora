@@ -139,6 +139,7 @@ encoder_sources = \
 	dequant.c \
 	fragment.c \
 	idct.c \
+	info.c \
 	internal.c \
 	state.c \
 	quant.c \
